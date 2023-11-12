@@ -110,7 +110,6 @@ letter-spacing: 0.02em;
 text-align: center;
 }
 
-/* width: 264px; */
 .name {
 background-color: #FFFFFF;
 font-weight: 400;
@@ -149,7 +148,6 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 }
 
-/* word-wrap: break-word */
 .portfolio-list-item {
 color: #434455;
 font-size: 16px;
