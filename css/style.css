@@ -1,23 +1,23 @@
 ul,ol {
-    list-style-type: none;
+list-style-type: none;
 }
 
 a {
-    text-decoration: none;
+text-decoration: none;
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
-    color: #434455;
-    background-color: #FFFFFF;
+font-family: 'Roboto', sans-serif;
+color: #434455;
+background-color: #FFFFFF;
 }
 
 button {
-    cursor: pointer;
+cursor: pointer;
 }
 
 .logo {
-    color: #4D5AE5;
+color: #4D5AE5;
 font-size: 18px;
 font-family: 'Raleway', sans-serif;
 font-weight: 700;
@@ -27,7 +27,7 @@ text-transform: uppercase;
 }
 
 .logotype {
-    color: #2e2f42;
+color: #2e2f42;
 font-size: 18px;
 font-family: 'Raleway', sans-serif;
 font-weight: 700;
@@ -46,7 +46,7 @@ letter-spacing: 0.02em;
 }
 
 .contacts {
-    color: #434455;
+color: #434455;
 font-style: normal;
 font-size: 16px;
 font-weight: 400;
@@ -55,11 +55,11 @@ letter-spacing: 0.02em;
 }
 
 .main {
-    background-color: #2E2F42;
+background-color: #2E2F42;
 }
 
 .main-button {
-    color: #FFFFFF;
+color: #FFFFFF;
 font-size: 56px;
 font-weight: 700;
 line-height: 1.07;
@@ -68,7 +68,7 @@ text-align: center;
 }
 
 .main-button-list {
-    color: white;
+color: white;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
@@ -77,7 +77,7 @@ background-color: #4D5AE5;
 }
 
 .benefits-list {
-    color: #2e2f42;
+color: #2e2f42;
 font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
@@ -85,7 +85,6 @@ letter-spacing: 0.02em;
 }
 
 .benefits-list-item {
-
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -102,21 +101,22 @@ letter-spacing: 0.02em;
 }
 
 .team-list {
-    color: #2e2f42;
-    font-size: 36px;
-    font-weight: 700;
-    text-transform: capitalize;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
+color: #2e2f42;
+font-size: 36px;
+font-weight: 700;
+text-transform: capitalize;
+line-height: 1.11;
+letter-spacing: 0.02em;
 }
 
 /* width: 264px; */
 .name {
-    background-color: #FFFFFF;
-    font-weight: 400;
+background-color: #FFFFFF;
+font-weight: 400;
 }
 
 .name-list {
+color: #2e2f42;
 font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
@@ -125,9 +125,9 @@ letter-spacing: 0.02em;
 
 .name-list-item {
 
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
 
 .portfolio {
@@ -141,7 +141,7 @@ text-align: center;
 }
 
 .portfolio-list {
-    color: #2E2F42;
+color: #2E2F42;
 font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
@@ -149,7 +149,7 @@ letter-spacing: 0.02em;
 }
 
 .portfolio-list-item {
-    color: #434455;
+color: #434455;
 font-size: 16px;
 font-weight: 400;
 line-height: 1.5;
@@ -158,11 +158,11 @@ word-wrap: break-word
 }
 
 .footer {
-    background-color: #2E2F42;
+background-color: #2E2F42;
 }
 
 .logotype-footer {
-    color: #F4F4FD;
+color: #F4F4FD;
 font-size: 18px;
 font-family: 'Raleway', sans-serif;
 font-weight: 700;
@@ -172,15 +172,15 @@ letter-spacing: 0.03em;
 }
 
 .footer-item {
-    color: #F4F4FD;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
+color: #F4F4FD;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
 
 
 .nav-link:hover,
 .nav-link:focus
 {
-    color: #404BBF;
+color: #404BBF;
 }
