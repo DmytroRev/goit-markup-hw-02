@@ -8,7 +8,8 @@ a {
 
 body {
     font-family: 'Roboto', sans-serif;
-    color: #2E2F42;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 
 button {
@@ -20,21 +21,23 @@ button {
 font-size: 18px;
 font-family: 'Raleway', sans-serif;
 font-weight: 700;
-line-height: 1.16;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 
 .logotype {
+    color: #2e2f42;
 font-size: 18px;
 font-family: 'Raleway', sans-serif;
 font-weight: 700;
-line-height: 1.16;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 
 .nav {
+font-family: "Raleway", sans-serif;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
@@ -42,7 +45,7 @@ letter-spacing: 0.02em;
 }
 
 .contacts {
-    color: #434455;
+font-style: normal;
 font-size: 16px;
 font-weight: 400;
 line-height: 1.5;
@@ -59,6 +62,7 @@ font-size: 56px;
 font-weight: 700;
 line-height: 1.07;
 letter-spacing: 0.02em;
+text-align: center;
 }
 
 .main-button-list {
@@ -78,13 +82,14 @@ letter-spacing: 0.02em;
 }
 
 .benefits-list-item {
-    color: #434455;
+
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
 .team {
+text-align: center;
 background-color: #F4F4FD;
 font-size: 36px;
 font-weight: 700;
@@ -101,11 +106,10 @@ letter-spacing: 0.02em;
     letter-spacing: 0.02em;
 }
 
+/* width: 264px; */
 .name {
     background-color: #FFFFFF;
-    width: 264px;
     font-weight: 400;
-
 }
 
 .name-list {
@@ -116,10 +120,37 @@ letter-spacing: 0.02em;
 }
 
 .name-list-item {
-    color: #434455;
+
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+
+.portfolio {
+    text-align: center;
+    color: #2E2F42;
+font-size: 36px;
+font-weight: 700;
+text-transform: capitalize;
+line-height: 1.11;
+letter-spacing: 0.02em;
+}
+
+.portfolio-list {
+    color: #2E2F42;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+.portfolio-list-item {
+    color: #434455;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+word-wrap: break-word
 }
 
 .footer {
