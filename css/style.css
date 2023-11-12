@@ -37,7 +37,7 @@ text-transform: uppercase;
 }
 
 .nav {
-color: #434455;
+color: #2e2f42;
 font-family: "Raleway", sans-serif;
 font-size: 16px;
 font-weight: 500;
@@ -56,7 +56,6 @@ letter-spacing: 0.02em;
 
 .main {
 background-color: #2E2F42;
-text-align: center;
 }
 
 .main-button {
@@ -65,6 +64,7 @@ font-size: 56px;
 font-weight: 700;
 line-height: 1.07;
 letter-spacing: 0.02em;
+text-align: center;
 }
 
 .main-button-list {
@@ -91,13 +91,13 @@ letter-spacing: 0.02em;
 }
 
 .team {
-text-align: center;
 background-color: #F4F4FD;
 font-size: 36px;
 font-weight: 700;
 text-transform: capitalize;
 line-height: 1.11;
 letter-spacing: 0.02em;
+text-align: center;
 }
 
 .team-list {
